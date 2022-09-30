@@ -1,4 +1,4 @@
-# Video Mix Data Augmentation for TensorFlow
+# VideoMix Augmentation in TensorFlow
 
 This code implements VideoMix a data augmentation technique in TensorFlow.
 
